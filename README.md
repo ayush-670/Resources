@@ -44,4 +44,8 @@ Resources to make life Easy
             Unsplash:  
                 https://unsplash.com/
 
+4. Coolors: color scheme generator
+    https://coolors.co/
         
+5. Procreate tutorials
+    https://www.youtube.com/user/thebradcolbow
